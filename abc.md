@@ -14,7 +14,7 @@ Please enroll as soon as possible.
 ## Combine two things
 
 Block of words and headings.
-> ## Heading 2
+> ## Introduction
 
 ## Face of the text
 
@@ -85,12 +85,16 @@ To enroll in this course, scan this QR code.
 
 To print a string use `print("Hello")`
 
+> This line will show colors of code according to R language.
+
 ```R
 a = 20
 b = 34
 c = a+b
 print(c)
 ```
+> This line will show colors of code according to Python language.
+
 
 ```python
 a = 20
@@ -99,10 +103,39 @@ c = a+b
 print(c)
 ```
 
+> This line will show colors of code according to html language.
+
 ```html
 a = 20
 b = 34
 c = a+b
 print(c)
 ```
+
+## 11- Tables
+
+| Alpha | Bravo | Charli | Delta | Exponential |
+|:---:|:---:|:---:|:---:|:---:| 
+| 20 | 24 | 34 | 34 | 45
+| 20 | 24 | 34 | 34 | 45
+| 20 | 24 | 34 | 34 | 45
+| 23 | 27 | 21 |34 | 45
+| 23 | 27 | 21 |34 | 45
+| 23 | 27 | 21 |34 | 45
+| 23 | 27 | 21 |34 | 45
+
+## 12- Content
+
+[Heading-1](#heading-2)\
+[Face of Text](#face-of-the-text)\
+[Bullet Points](#bullet-points--lists)\
+[Combining](#combine-two-things)\
+[Breaks](#line--page-breaks)\
+[Words](#block-of-words)\
+[Images and Figures](#9--images-and-figures-with-links)
+## 13- Install Extensions
+> Install Markdown all in one, lint, shortcuts, and pdf extensions.
+
+
+
  
