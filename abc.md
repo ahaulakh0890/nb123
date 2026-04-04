@@ -126,7 +126,7 @@ print(c)
 
 ## 12- Content
 
-[Heading-1](#heading-2)\
+[Introduction](#heading-2)\
 [Face of Text](#face-of-the-text)\
 [Bullet Points](#bullet-points--lists)\
 [Combining](#combine-two-things)\
@@ -135,7 +135,3 @@ print(c)
 [Images and Figures](#9--images-and-figures-with-links)
 ## 13- Install Extensions
 > Install Markdown all in one, lint, shortcuts, and pdf extensions.
-
-
-
- 
